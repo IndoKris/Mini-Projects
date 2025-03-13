@@ -1,4 +1,4 @@
-**Summary of the Program**
+<h1>Summary of the Tic-Tac-Toe Program </h1>
 
 This Python program is a command-line-based game similar to Tic-Tac-Toe. It allows a player to compete against a computer in a grid-based game. The program offers three difficulty modes and follows different win conditions based on the selected mode. The game continues until a player wins, the board is full, or the user chooses to exit or restart.
 
